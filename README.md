@@ -16,3 +16,11 @@ The system is designed to handle both text and audio inputs, converting audio to
 - **Sentence Transformers**: Leveraging Hugging Face Sentence Transformers for encoding comments and calculating similarity.
 - **Prompt Engineering**: Crafting effective prompts for the LLM to generate accurate summaries.
 - **Integration of Audio Processing**: Converting audio inputs to text for analysis.
+
+## Downloading the Models
+
+Due to the large size of the models, they are hosted externally. Please download them from the following link and place them in the `models` directory.
+
+- [Best Model](https://drive.google.com/drive/folders/1VySk4CNoKCt5XY0axclpAg22EOz3C3Dl?usp=drive_link)
+
+**Link to project webpage: https://davidperezcarrasco.github.io/projects/nlp/**
