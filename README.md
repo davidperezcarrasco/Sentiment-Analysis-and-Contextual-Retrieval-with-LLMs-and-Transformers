@@ -8,14 +8,14 @@ The system is designed to handle both text and audio inputs, converting audio to
 
 1. **Sentiment Analysis**: Utilizing a BERT model for sentiment classification, fine-tuned to optimize precision, recall, and F1 score.
 2. **Contextual Retrieval**: Using cosine similarity with a Hugging Face Sentence Transformer to find and retrieve comments most similar to the input text.
-3. **Summary Generation**: Employing a Hugging Face LLM to generate summaries of the input and retrieved comments, with prompts fine-tuned through zero-shot and few-shot learning.
+3. **Summary Generation**: Employing a Mistral's LLM to generate summaries of the input and retrieved comments, with prompts fine-tuned through zero-shot and few-shot learning.
 
 ## Key Components
 
 - **BERT Text Classification**: Fine-tuned for sentiment analysis.
 - **Sentence Transformers**: Leveraging Hugging Face Sentence Transformers for encoding comments and calculating similarity.
 - **Prompt Engineering**: Crafting effective prompts for the LLM to generate accurate summaries.
-- **Integration of Audio Processing**: Converting audio inputs to text for analysis.
+- **Integration of Audio Processing**: Converting audio inputs to text for analysis through OpenAI's Whisper.
 
 ## Downloading the Models
 
