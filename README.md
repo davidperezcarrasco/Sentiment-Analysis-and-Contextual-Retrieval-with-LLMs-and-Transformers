@@ -1,4 +1,4 @@
-# Sentiment-Analysis-and-Contextual-Retrieval-with-LLMs-and-Transformers
+# Sentiment Analysis and Retrieval Augmented Generation with LLMs and Transformers
 
 This project is an in-depth exploration of various NLP techniques and models, focusing on sentiment analysis and retrieval-augmented generation (RAG) using large language models (LLMs) and transformer architectures.
 
